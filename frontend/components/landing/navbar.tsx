@@ -46,9 +46,9 @@ export default function Navbar() {
             </h1>
 
             <p className="text-sm text-slate-400">
-              AI-Powered Air Monitoring &
+              Cloud-Native Intelligent Air Monitoring &
               <br />
-              Industrial Safety Assistant
+               Industrial Safety Platform
             </p>
           </div>
         </Link>

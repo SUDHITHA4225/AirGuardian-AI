@@ -55,8 +55,7 @@ export default function Hero() {
 
               <ShieldCheck size={18} />
 
-              AI Powered Industrial Safety Platform
-
+              Cloud-Native Intelligent Industrial Monitoring Platform
             </div>
 
             <h1 className="mt-8 text-5xl font-black leading-tight text-white lg:text-7xl">
@@ -75,10 +74,7 @@ export default function Hero() {
 
             <p className="mt-8 max-w-xl text-lg leading-9 text-slate-400">
 
-              Intelligent Industrial Air Quality Monitoring
-              powered by Artificial Intelligence,
-              IoT Sensors, Google Gemini,
-              AWS Cloud and Real-Time Analytics.
+              Intelligent Industrial Air Quality Monitoring powered by AI, IoT Sensors, Google Gemini, AWS Cloud, and Real-Time Analytics.
 
             </p>
 
